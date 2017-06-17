@@ -10,3 +10,5 @@ I am going to start installing VIM editor essential for many tasks, and continue
 ## Installation instructions
 - [VIM editor](install-instructions/vim-editor.md)
 - [Install Git and show branch name in terminal](install-instructions/git-and-show-branch-name-in-terminal.md)
+- [Free editors (Brackets and Atom)](install-instructions/editors-installation.md)
+- [Best free IDE - NetBEANS](install-instructions/ide-free.md)

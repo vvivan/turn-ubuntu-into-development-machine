@@ -1,4 +1,6 @@
 # How to install VIM editor on Ubuntu
+![VIM editor](/img/vim-200.png)
+
 Vim (Vi Improved) text editor has reached the 8.0 release, the first major Vim release in ten years. Here’s how to install it in Ubuntu 16.04, Ubuntu 14.04 via PPA.
 
 Vim 8.0 brings some interesting new features, many small improvements and lots of bug fixes. Here are some of them:

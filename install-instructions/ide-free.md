@@ -1,2 +1,3 @@
 # Installing Best Free IDE (NetBeans) in Ubuntu
+![NeatBeans editor](/img/ide-free/netbeans-header.png)
 ## Coming soon...

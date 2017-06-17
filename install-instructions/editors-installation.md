@@ -1,3 +1,3 @@
 # Installing Best Free Editors in Ubuntu
-
+![free editors](/img/editors/editors-header.png)
 ## Coming soon...

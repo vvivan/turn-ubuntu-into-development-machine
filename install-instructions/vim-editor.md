@@ -4,9 +4,12 @@
 ## What is VIM
 Vim is an advanced text editor that seeks to provide the power of the de-facto Unix editor 'Vi', with a more complete feature set. It's useful whether you're already using vi or using a different editor. Users of Vim 5 and 6 should consider upgrading to Vim 7.
 
+For more info about VIM you can visit [VIM web page](http://www.vim.org)
+
 ### What VIM Can Do?
 
 ![VIM comics](/img/vim/vim-comics.png)
+
  Copyright (c) 2007 Laurent Gregoire
 
 Vim is a highly configurable text editor built to enable efficient text editing. It is an improved version of the vi editor distributed with most UNIX systems.
@@ -38,16 +41,16 @@ Vim 8.0 brings some interesting new features, many small improvements and lots o
 ### How to install Vim 8.0 in Ubuntu
 For Ubuntu 16.04, Ubuntu 14.04, Linux Mint 18/17, and their derivatives, Vim 8.0 has been made into this backport PPA
 
-- Open terminal (Ctrl+Alt+T) and run command to add the PPA:
+* Open terminal (Ctrl+Alt+T) and run command to add the PPA:
 ```
 sudo add-apt-repository ppa:jonathonf/vim
 ```
-- First update repos and then install VIM
+* First update repos and then install VIM
 ```
 sudo apt update
 sudo apt install vim
 ```
-- VIM is installed and now you can check VIM version:
+* VIM is installed and now you can check VIM version:
 ```
 vim -version
 ```

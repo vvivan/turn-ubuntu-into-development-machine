@@ -1,5 +1,5 @@
 # How to install VIM editor on Ubuntu
-![VIM editor](/img/vim-200.png)
+![VIM editor](/img/vim/vim-200.png)
 
 Vim (Vi Improved) text editor has reached the 8.0 release, the first major Vim release in ten years. Here’s how to install it in Ubuntu 16.04, Ubuntu 14.04 via PPA.
 
@@ -31,6 +31,20 @@ sudo apt install vim
 ```
 vim -version
 ```
+## How to start VIM
+VIM editor can be started via search:
+![VIM editor start](/img/vim/vim-start.png)
+
+or from the terminal:
+
+![VIM editor start from terminal](/img/vim/vim-terminal.png)
+
+VIM editor basic look:
+
+![VIM editor](/img/vim/vim-editor.png)
+
+You are ready using VIM now - happy VIM-ing !!!
+
 ## Uninstall VIM
 To uninstall Vim 8.0 and downgrade it to the stock version in Ubuntu repository, run the command below to purge the PPA:
 ```

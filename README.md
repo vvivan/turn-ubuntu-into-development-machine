@@ -1,4 +1,4 @@
-# How to Turn Ubuntu into the Development Machine
+# How to Turn Ubuntu into the Web Development Machine
 ### presented by Ivan Web Development
 
 ![Ubuntu Dev Machine Header](/img/ubuntu-dev-machine-header.png)

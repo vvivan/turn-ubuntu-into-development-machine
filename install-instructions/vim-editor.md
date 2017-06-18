@@ -68,6 +68,10 @@ VIM editor basic look:
 
 You are ready using VIM now - happy VIM-ing !!!
 
+### Installation Video
+
+[![Install VIM on UBUNTU](/img/vim/video-vim.png)](https://www.youtube.com/watch?v=m-eSK1gUIZA&t=9s)
+
 ## Uninstall VIM
 To uninstall Vim 8.0 and downgrade it to the stock version in Ubuntu repository, run the command below to purge the PPA:
 ```
